@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AscensioVentures | AI Trip Package Search &amp; Rules Engine</title>
+  <meta name="description" content="Instant travel package search and pricing for vacations, school excursions, college trips, and industrial visits with deterministic rules and AI enrichment.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/png" href="/images/asclogo.png">
+  <link rel="stylesheet" href="/css/styles.css?v=aisparkle1">
+</head>
+<body>
+  <div class="app-container">
+    <!-- Header -->
+    <header class="app-header">
+      <div class="header-inner">
+        <a href="/" class="brand-logo" aria-label="AscensioVentures Home">
+          <img src="/images/asclogo.png" alt="Ascensio Ventures Logo" class="brand-logo-img">
+          <span class="brand-text">Ascensio<span class="brand-ai">Ventures</span></span>
+        </a>
+
+        <div class="header-right-badges">
+          <button type="button" class="contact-us-btn" id="contact-us-btn" aria-label="Contact Us">
+            <svg class="contact-btn-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+            </svg>
+            <span>Contact Us</span>
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <!-- Hero Search Section -->
+    <main class="main-content">
+      <div class="hero-travel-backdrop" aria-hidden="true"></div>
+      <section class="hero-section" id="hero-section">
+        <h1 class="hero-title">Describe your trip. <span class="gradient-text">Get an instant package</span> built for you.</h1>
+        <p class="hero-subtitle">Vacations, school excursions, college trips, and industrial visits, matched &amp; priced with deterministic accuracy.</p>
+      </section>
+
+      <!-- Sticky Outer Wrapper for Search Bar (Native GPU-accelerated smooth sticky scrolling) -->
+      <div class="search-bar-outer-wrapper" id="search-bar-outer-wrapper">
+        <div class="sticky-bar-inner">
+          <!-- Left Side Logo (appears when search bar sits in center sticky top) -->
+          <div class="sticky-brand-logo" id="sticky-brand-logo" aria-label="AscensioVentures Home">
+            <img src="/images/asclogo.png" alt="Ascensio Ventures Logo" class="sticky-brand-img">
+            <span class="brand-text">Ascensio<span class="brand-ai">Ventures</span></span>
+          </div>
+
+          <!-- Search Bar (Protected with native AJAX prevention) -->
+          <form class="search-form" id="search-form" method="POST" autocomplete="off" action="javascript:void(0);" onsubmit="event.preventDefault(); return false;">
+            <div class="search-bar-wrapper">
+              <div class="search-icon-wrapper ai-sparkle-wrapper" aria-hidden="true" title="AI Search Mode">
+                <svg class="ai-sparkle-icon" viewBox="0 0 24 24" fill="currentColor">
+                  <path d="M9.813 15.904L9 18.75l-.813-2.846a4.5 4.5 0 00-3.09-3.09L2.25 12l2.846-.813a4.5 4.5 0 003.09-3.09L9 5.25l.813 2.846a4.5 4.5 0 003.09 3.09L15.75 12l-2.846.813a4.5 4.5 0 00-3.09 3.09zM18.259 8.715L18 9.75l-.259-1.035a3.375 3.375 0 00-2.455-2.456L14.25 6l1.036-.259a3.375 3.375 0 002.455-2.456L18 2.25l.259 1.035a3.375 3.375 0 002.456 2.456L21.75 6l-1.035.259a3.375 3.375 0 00-2.456 2.456zM16.894 20.567L16.5 21.75l-.394-1.183a2.25 2.25 0 00-1.423-1.423L13.5 18.75l1.183-.394a2.25 2.25 0 001.423-1.423l.394-1.183.394 1.183a2.25 2.25 0 001.423 1.423l1.183.394-1.183.394a2.25 2.25 0 00-1.423 1.423z"/>
+                </svg>
+              </div>
+              <div class="input-container">
+                <textarea
+                  id="search-input"
+                  name="query"
+                  rows="3"
+                  placeholder="3 day industrial visit for 60 mechanical students to Coimbatore in August, budget 4500 per head"
+                  aria-label="Search travel request"
+                  required
+                ></textarea>
+                <span id="animated-placeholder" class="animated-placeholder" aria-hidden="true"></span>
+                <button type="button" id="search-clear-btn" class="search-clear-btn" aria-label="Clear search input" title="Clear search" style="display: none;">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                    <line x1="18" y1="6" x2="6" y2="18"></line>
+                    <line x1="6" y1="6" x2="18" y2="18"></line>
+                  </svg>
+                </button>
+              </div>
+              <button type="submit" id="search-submit-btn" class="search-submit-btn" aria-label="Search" title="Search">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round">
+                  <circle cx="11" cy="11" r="8"></circle>
+                  <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                </svg>
+              </button>
+            </div>
+          </form>
+
+          <!-- Spacer to ensure search input is perfectly centered -->
+          <div class="sticky-brand-spacer" aria-hidden="true"></div>
+        </div>
+      </div>
+
+      <div class="hero-extras" id="hero-extras">
+        <!-- Category Quick Chips -->
+        <div class="quick-chips" id="quick-chips" aria-label="Quick category suggestions">
+          <span class="quick-chips-label">Popular trip types:</span>
+          <button type="button" class="chip-btn" data-category="Vacation">Vacation</button>
+          <button type="button" class="chip-btn" data-category="School Trip">School Trip</button>
+          <button type="button" class="chip-btn" data-category="College Trip">College Trip</button>
+          <button type="button" class="chip-btn" data-category="Industrial Visit">Industrial Visit</button>
+        </div>
+
+        <!-- Toggle button to show/hide example prompts -->
+        <div class="guidance-toggle-wrapper">
+          <button type="button" class="guidance-toggle-btn" id="guidance-toggle-btn" aria-expanded="false" aria-controls="search-guidance-container">
+            <span class="guidance-toggle-icon">💡</span>
+            <span id="guidance-toggle-text">Show Example Prompts &amp; Formula</span>
+            <span class="guidance-toggle-arrow">▼</span>
+          </button>
+        </div>
+
+        <!-- Changing Recommendation Assistant (Hidden by default, shown on click) -->
+        <div class="search-guidance-container" id="search-guidance-container" style="display: none;">
+          <div class="guidance-header-row">
+            <div class="guidance-badge">
+              <svg class="guidance-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="12" cy="12" r="10"></circle>
+                <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
+                <line x1="12" y1="17" x2="12.01" y2="17"></line>
+              </svg>
+              <span>How To Write Your Custom Search</span>
+            </div>
+            <div class="guidance-formula">
+              <span class="formula-label">Easy Formula:</span>
+              <span class="formula-tag">[Days]</span> + <span class="formula-tag">[Trip Type]</span> + <span class="formula-tag">[Destination]</span> + <span class="formula-tag">[Group Size]</span> + <span class="formula-tag">[Budget / Preferences]</span>
+            </div>
+          </div>
+
+          <div class="guidance-rotating-card" id="guidance-rotating-card">
+            <div class="guidance-quote-badge">Example</div>
+            <div class="guidance-content">
+              <span class="guidance-prefix" id="guidance-prefix">Customized Package Recommendation:</span>
+              <p class="guidance-sentence" id="guidance-sentence" title="Click to fill into search bar">
+                "3 day industrial visit for 45 mechanical students to Coimbatore, budget 4500 per head"
+              </p>
+              <span class="guidance-tip" id="guidance-tip">💡 Click anywhere on this prompt to test or edit this custom package</span>
+            </div>
+            <div class="guidance-controls">
+              <button type="button" class="guidance-nav-btn" id="guidance-prev-btn" aria-label="Previous recommendation">‹</button>
+              <div class="guidance-dots" id="guidance-dots"></div>
+              <button type="button" class="guidance-nav-btn" id="guidance-next-btn" aria-label="Next recommendation">›</button>
+              <button type="button" class="guidance-apply-btn" id="guidance-apply-btn">Try Prompt ↗</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Results Container -->
+      <section class="results-section" id="results-section" aria-live="polite">
+        <!-- Dynamic state injected here: loading, matched, budget_gap, needs_clarification, error -->
+      </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="app-footer">
+      <div class="footer-content">
+        <p class="footer-copy">&copy; 2026 AscensioVentures. All rights reserved.</p>
+      </div>
+    </footer>
+  </div>
+
+  <!-- Customization Modal -->
+  <div class="modal-overlay" id="customize-modal" style="display: none;" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h2 id="modal-title" class="modal-title">Customize Package</h2>
+        <button type="button" class="modal-close-btn" id="modal-close-btn" aria-label="Close modal">&times;</button>
+      </div>
+      <div class="modal-body">
+        <form id="customize-form" method="POST" action="javascript:void(0);" onsubmit="event.preventDefault(); return false;">
+          <div class="form-group">
+            <label for="custom-duration">Duration (Days)</label>
+            <input type="number" id="custom-duration" min="1" max="14" class="form-input">
+          </div>
+          <div class="form-group">
+            <label for="custom-group">Group Size</label>
+            <input type="number" id="custom-group" min="1" max="200" class="form-input">
+          </div>
+          <div class="form-group">
+            <label for="custom-transport">Transport Mode</label>
+            <select id="custom-transport" class="form-select">
+              <option value="bus">AC Bus / Coach</option>
+              <option value="car">Private Car / AC Cab / Tempo</option>
+              <option value="train">Express Train</option>
+              <option value="flight">Domestic Flight</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="custom-accommodation">Stay Tier</label>
+            <select id="custom-accommodation" class="form-select">
+              <option value="hostel">Youth Hostel / Dorms</option>
+              <option value="3star">3-Star Hotel</option>
+              <option value="4star">4-Star Deluxe</option>
+              <option value="5star">5-Star Luxury</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="custom-budget">Budget Per Person (₹)</label>
+            <input type="number" id="custom-budget" min="500" max="100000" step="any" class="form-input">
+          </div>
+          <div class="modal-actions">
+            <button type="button" class="btn btn-secondary" id="modal-cancel-btn">Cancel</button>
+            <button type="submit" class="btn btn-primary" id="modal-apply-btn">Update &amp; Reprice</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <!-- Complete Package Blueprint & Details Modal -->
+  <div class="modal-overlay" id="package-details-modal" style="display: none;" role="dialog" aria-modal="true" aria-labelledby="details-modal-title">
+    <div class="modal-card modal-card-large">
+      <div class="modal-header">
+        <div>
+          <span id="details-category-pill" class="category-pill">Package Details</span>
+          <h2 id="details-modal-title" class="modal-title" style="margin-top: 6px;">Package Blueprint &amp; Specs</h2>
+          <p id="details-modal-subtitle" class="package-subtitle" style="margin-top: 4px;"></p>
+        </div>
+        <button type="button" class="modal-close-btn" id="details-modal-close-btn" aria-label="Close details modal">&times;</button>
+      </div>
+      <div class="modal-body modal-scrollable" id="details-modal-content">
+        <!-- Dynamically rendered full package specifications -->
+      </div>
+      <div class="modal-actions modal-footer-actions">
+        <button type="button" class="btn btn-secondary" id="details-print-btn">
+          <svg style="width: 15px; height: 15px; display: inline-block; vertical-align: -2px; margin-right: 4px;" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg>
+          Print / Save Summary
+        </button>
+        <button type="button" class="btn btn-secondary" id="details-modal-dismiss-btn">Close</button>
+        <button type="button" class="btn btn-primary" id="details-customize-btn">Customise This Package</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Contact Us Modal -->
+  <div class="modal-overlay" id="contact-modal" style="display: none;" role="dialog" aria-modal="true" aria-labelledby="contact-modal-title">
+    <div class="modal-card">
+      <div class="modal-header">
+        <div>
+          <span class="contact-modal-badge">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"></path></svg>
+            Direct Inquiry
+          </span>
+          <h2 id="contact-modal-title" class="modal-title" style="margin-top: 6px;">Contact Our Travel Concierge</h2>
+          <p class="modal-subtitle" style="font-size: 0.85rem; color: var(--muted); margin-top: 4px;">Have questions about group packages, custom routes, or institutional bookings? Reach out to us directly.</p>
+        </div>
+        <button type="button" class="modal-close-btn" id="contact-modal-close-btn" aria-label="Close contact modal">&times;</button>
+      </div>
+
+      <form id="contact-form" method="POST" autocomplete="on" action="javascript:void(0);" onsubmit="event.preventDefault(); return false;">
+        <div class="form-row-2col">
+          <div class="form-group">
+            <label for="contact-name">Full Name <span class="required-star">*</span></label>
+            <input type="text" id="contact-name" class="form-input" placeholder="e.g. Rahul Sharma" required>
+          </div>
+          <div class="form-group">
+            <label for="contact-phone">Phone Number <span class="required-star">*</span></label>
+            <input type="tel" id="contact-phone" class="form-input" placeholder="+91 98765 43210" required>
+          </div>
+        </div>
+
+        <div class="form-group">
+          <label for="contact-email">Email Address <span class="required-star">*</span></label>
+          <input type="email" id="contact-email" class="form-input" placeholder="name@college.edu or name@company.com" required>
+        </div>
+
+        <div class="form-group">
+          <label for="contact-trip-type">Trip Category / Inquiry</label>
+          <select id="contact-trip-type" class="form-select">
+            <option value="industrial_visit">Industrial Visit (Engineering / Polytechnic / MBA)</option>
+            <option value="school_excursion">School Excursion / Science &amp; Heritage Tour</option>
+            <option value="college_trip">College Trip / Adventure &amp; Trekking</option>
+            <option value="vacation">Leisure Vacation / Family Holiday</option>
+            <option value="custom_quote">Custom Institution Package / Other</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <label for="contact-message">Trip Requirements / Message <span class="required-star">*</span></label>
+          <textarea id="contact-message" class="form-textarea" rows="3" placeholder="Tell us destination, traveler count, preferred travel dates, or specific requirements..." required></textarea>
+        </div>
+
+        <div class="modal-actions">
+          <button type="button" class="btn btn-secondary" id="contact-modal-cancel-btn">Cancel</button>
+          <button type="submit" class="btn btn-primary" id="contact-submit-btn">
+            <span>Send Inquiry</span>
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="display: inline-block; vertical-align: -2px; margin-left: 4px;"><line x1="22" y1="2" x2="11" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg>
+          </button>
+        </div>
+      </form>
+
+      <!-- Success Confirmation State (shown after submitting) -->
+      <div id="contact-success-state" style="display: none; text-align: center; padding: 24px 8px;">
+        <div class="contact-success-icon-wrap">
+          <svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="#059669" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="20 6 9 17 4 12"></polyline>
+          </svg>
+        </div>
+        <h3 style="font-size: 1.25rem; font-weight: 750; color: var(--ink); margin-top: 14px;">Inquiry Received!</h3>
+        <p style="font-size: 0.875rem; color: var(--muted); margin-top: 6px; line-height: 1.5; max-width: 360px; margin-left: auto; margin-right: auto;">
+          Thank you for reaching out. Our trip coordination specialist will review your request and get back to you within 2 hours.
+        </p>
+        <button type="button" class="btn btn-primary" id="contact-success-close-btn" style="margin-top: 20px;">
+          Done
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Client JavaScript Modules -->
+  <script type="module" src="/js/app.js?v=nodash1"></script>
+</body>
+</html>

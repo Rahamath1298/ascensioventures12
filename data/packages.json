@@ -1,0 +1,2556 @@
+[
+  {
+    "id": "iv-coimbatore-3d",
+    "category": "industrial_visit",
+    "destinationId": "coimbatore-in",
+    "title": "3-Day Engineering Industrial Visit: Coimbatore",
+    "nights": 2,
+    "days": 3,
+    "minGroup": 10,
+    "maxGroup": 100,
+    "accommodation": "3star",
+    "transport": "bus",
+    "interests": [
+      "manufacturing",
+      "automation",
+      "textiles",
+      "mechanical"
+    ],
+    "mustHave": [
+      "plant visit",
+      "technical coordinator",
+      "safety gear",
+      "certificate"
+    ],
+    "baseActivitiesPerPerson": 900,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival, Safety Briefing & Precision Engineering Unit",
+        "activities": [
+          "Check-in at accommodation",
+          "Industrial safety orientation & PPE distribution",
+          "Guided walkthrough of Texvalley automation & precision machining hub",
+          "Interactive Q&A with plant quality assurance leads"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "3-star hotel"
+      },
+      {
+        "day": 2,
+        "title": "Heavy Motor Manufacturing & Casting Cluster",
+        "activities": [
+          "Morning industrial session at high-efficiency pump manufacturing facility",
+          "Observation of CNC casting, assembly lines, and dynamic balancing",
+          "Afternoon workshop on supply chain logistics and lean manufacturing",
+          "Evening debriefing and group project discussions"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "3-star hotel"
+      },
+      {
+        "day": 3,
+        "title": "Textile Automation Machinery & Certification",
+        "activities": [
+          "Visit to modern high-speed textile machinery unit",
+          "Demonstration of PLC controllers and IoT sensor integrations",
+          "Concluding symposium and distribution of Industrial Training Certificates",
+          "Departure for return transit"
+        ],
+        "meals": [
+          "B",
+          "L"
+        ],
+        "stay": "Return journey"
+      }
+    ],
+    "highlights": [
+      "Access to tier-1 precision manufacturing facilities",
+      "Hands-on demonstration of industrial automation and CNC cells",
+      "Dedicated technical coordinator and safety compliance officer",
+      "Official industry-recognized participation certificates"
+    ],
+    "inclusions": [
+      "AC bus transportation for all 3 days",
+      "3-star twin/triple sharing accommodation",
+      "All meals (3 Breakfasts, 3 Lunches, 2 Dinners)",
+      "Industrial plant entry clearances & gate permits",
+      "Safety gear (helmets, high-vis vests, eyewear)",
+      "Technical coordinator and industry liaison guide",
+      "Participation certificates for all registered students"
+    ],
+    "exclusions": [
+      "Personal telephone calls and laundry charges",
+      "Individual medical expenses beyond standard first aid",
+      "Items not explicitly mentioned in the itinerary"
+    ],
+    "safetyAndCompliance": [
+      "Standard OSHA/Factories Act safety compliance orientation",
+      "Emergency medical vehicle on standby during plant hours",
+      "Mandatory visitor PPE issued to all participants"
+    ],
+    "imageUrl": "/images/packages/iv-coimbatore-3d.jpg"
+  },
+  {
+    "id": "iv-pune-3d",
+    "category": "industrial_visit",
+    "destinationId": "pune-in",
+    "title": "3-Day Automotive & Robotics Industrial Visit: Pune",
+    "nights": 2,
+    "days": 3,
+    "minGroup": 10,
+    "maxGroup": 100,
+    "accommodation": "3star",
+    "transport": "bus",
+    "interests": [
+      "automobile",
+      "robotics",
+      "automation",
+      "manufacturing"
+    ],
+    "mustHave": [
+      "plant visit",
+      "technical coordinator",
+      "safety gear",
+      "certificate"
+    ],
+    "baseActivitiesPerPerson": 900,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Automotive Assembly Line & Robotic Welding",
+        "activities": [
+          "Transfer from Pune Junction/Terminal",
+          "Safety protocol briefing",
+          "Observation of robotic chassis welding lines and paint shop robots",
+          "Session with lead manufacturing engineers on Industry 4.0"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "3-star business hotel"
+      },
+      {
+        "day": 2,
+        "title": "Precision Tooling & EV Powertrain Development",
+        "activities": [
+          "Visit to automotive components and EV battery packaging unit",
+          "Study of automated optical inspection and telemetry test cells",
+          "Technical discussion on electric vehicle drivetrain architecture",
+          "Evening city orientation near FC Road"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "3-star business hotel"
+      },
+      {
+        "day": 3,
+        "title": "Heavy Forging & Certification Wrap-up",
+        "activities": [
+          "Guided tour of heavy forging press plant and metallurgy lab",
+          "Demonstration of heat treatment cycles and ultrasonic testing",
+          "Industrial Visit Certificate award ceremony",
+          "Evening departure transfer"
+        ],
+        "meals": [
+          "B",
+          "L"
+        ],
+        "stay": "Return journey"
+      }
+    ],
+    "highlights": [
+      "Live observation of automotive robotic welding cells",
+      "Exclusive entry into EV component engineering labs",
+      "Technical exchange with production management veterans",
+      "Certified industrial participation documentation"
+    ],
+    "inclusions": [
+      "Dedicated chartered bus transit",
+      "3-star hotel accommodation",
+      "All buffet meals",
+      "Factory clearances and plant gate permits",
+      "Safety gear and high-visibility vests",
+      "Full-time technical coordinator",
+      "Course and visit participation certificates"
+    ],
+    "exclusions": [
+      "Personal portage and discretionary spending",
+      "Video camera entry permit fees where applicable"
+    ],
+    "safetyAndCompliance": [
+      "Certified shop-floor visitor safety goggles and safety shoes mandatory",
+      "First aid and paramedic emergency coverage throughout"
+    ],
+    "imageUrl": "/images/packages/iv-pune-3d.jpg"
+  },
+  {
+    "id": "iv-chennai-3d",
+    "category": "industrial_visit",
+    "destinationId": "chennai-in",
+    "title": "3-Day Rail & Automobile Engineering Tour: Chennai",
+    "nights": 2,
+    "days": 3,
+    "minGroup": 10,
+    "maxGroup": 100,
+    "accommodation": "3star",
+    "transport": "bus",
+    "interests": [
+      "automobile",
+      "railways",
+      "hardware",
+      "engineering"
+    ],
+    "mustHave": [
+      "plant visit",
+      "technical coordinator",
+      "safety gear",
+      "certificate"
+    ],
+    "baseActivitiesPerPerson": 900,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Integral Coach Factory & Rolling Stock Design",
+        "activities": [
+          "Arrival and hotel check-in",
+          "Factory walkthrough of Vande Bharat coach production line",
+          "Study of bogie fabrication, braking systems, and electrical harnesses",
+          "Interactive session with railway senior design engineers"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "3-star hotel"
+      },
+      {
+        "day": 2,
+        "title": "Automobile Corridor & Commercial Vehicle Hub",
+        "activities": [
+          "Visit to commercial vehicle engine manufacturing facility in Sriperumbudur",
+          "Observation of automated CNC transfer lines and dynamometer test cells",
+          "Evening technical debriefing at the hotel"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "3-star hotel"
+      },
+      {
+        "day": 3,
+        "title": "Port Logistics Terminal & Certificate Distribution",
+        "activities": [
+          "Tour of container freight station and crane operations at Chennai Port",
+          "Distribution of participation certificates",
+          "Departure transfer"
+        ],
+        "meals": [
+          "B",
+          "L"
+        ],
+        "stay": "Return journey"
+      }
+    ],
+    "highlights": [
+      "Behind-the-scenes view of Vande Bharat train manufacturing",
+      "Heavy commercial vehicle machining and assembly lines",
+      "Port logistics and automated supply chain showcase",
+      "Official participation certificates for students"
+    ],
+    "inclusions": [
+      "AC coach for all internal transits",
+      "3-star hotel stay with breakfast and dinner",
+      "Packed hot lunches at factory dining zones",
+      "All plant entry clearances",
+      "Safety helmets and protective gear",
+      "Technical escort and certificate issuance"
+    ],
+    "exclusions": [
+      "Outstation travel to/from Chennai",
+      "Personal expenditures"
+    ],
+    "safetyAndCompliance": [
+      "Gate security passes pre-verified with Ministry IDs",
+      "Dedicated first-aid certified coordinator"
+    ],
+    "imageUrl": "/images/packages/iv-chennai-3d.jpg"
+  },
+  {
+    "id": "iv-bengaluru-3d",
+    "category": "industrial_visit",
+    "destinationId": "bengaluru-in",
+    "title": "3-Day Aerospace & Electronics Industrial Tour: Bengaluru",
+    "nights": 2,
+    "days": 3,
+    "minGroup": 10,
+    "maxGroup": 100,
+    "accommodation": "3star",
+    "transport": "bus",
+    "interests": [
+      "aerospace",
+      "electronics",
+      "robotics",
+      "hardware"
+    ],
+    "mustHave": [
+      "plant visit",
+      "technical coordinator",
+      "safety gear",
+      "certificate"
+    ],
+    "baseActivitiesPerPerson": 900,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Aerospace Component Manufacturing",
+        "activities": [
+          "Check-in and induction",
+          "Visit to Aerospace SEZ precision tooling workshop",
+          "Demonstration of 5-axis CNC machining of titanium airframe brackets",
+          "Session with aerospace quality assurance directors"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "3-star tech-corridor hotel"
+      },
+      {
+        "day": 2,
+        "title": "Electronic System Design & SMT Assembly",
+        "activities": [
+          "Tour of surface mount technology (SMT) automated pick-and-place lines",
+          "Demonstration of automated optical inspection and clean-room protocol",
+          "Technical lecture on embedded systems design for avionics"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "3-star tech-corridor hotel"
+      },
+      {
+        "day": 3,
+        "title": "Innovation Lab Visit & Certification",
+        "activities": [
+          "Interactive session at innovation prototyping lab",
+          "Certificate presentation and group photo session",
+          "Departure transfer"
+        ],
+        "meals": [
+          "B",
+          "L"
+        ],
+        "stay": "Return journey"
+      }
+    ],
+    "highlights": [
+      "State-of-the-art aerospace precision manufacturing",
+      "High-speed SMT printed circuit board assembly line",
+      "Direct technical interaction with industry researchers",
+      "Industrial participation credentials"
+    ],
+    "inclusions": [
+      "AC luxury coach for 3 days",
+      "3-star hotel accommodation",
+      "All standard meals",
+      "Safety gear and clean-room booties",
+      "Technical tour director",
+      "Printed verified certificates"
+    ],
+    "exclusions": [
+      "Airfare or train fares to Bengaluru",
+      "Discretionary personal expenses"
+    ],
+    "safetyAndCompliance": [
+      "Clean-room ESD protection compliance",
+      "Emergency medical protocol"
+    ],
+    "imageUrl": "/images/packages/iv-bengaluru-3d.jpg"
+  },
+  {
+    "id": "iv-ahmedabad-3d",
+    "category": "industrial_visit",
+    "destinationId": "ahmedabad-in",
+    "title": "3-Day Textiles & Chemical Engineering Visit: Ahmedabad",
+    "nights": 2,
+    "days": 3,
+    "minGroup": 10,
+    "maxGroup": 100,
+    "accommodation": "3star",
+    "transport": "bus",
+    "interests": [
+      "textiles",
+      "chemicals",
+      "manufacturing",
+      "process_engineering"
+    ],
+    "mustHave": [
+      "plant visit",
+      "technical coordinator",
+      "safety gear",
+      "certificate"
+    ],
+    "baseActivitiesPerPerson": 900,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Automated Textile Weaving & Processing Plant",
+        "activities": [
+          "Arrival and safety briefing",
+          "Tour of automated air-jet looms and high-speed spinning rotors",
+          "Observation of digital fabric printing and yarn dying automation"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "3-star hotel"
+      },
+      {
+        "day": 2,
+        "title": "Process Engineering & Wastewater Treatment",
+        "activities": [
+          "Visit to industrial polymers and specialty chemical manufacturing site",
+          "Zero-liquid-discharge (ZLD) effluent treatment plant demonstration",
+          "Technical seminar on sustainable chemical processing"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "3-star hotel"
+      },
+      {
+        "day": 3,
+        "title": "Sanand Automotive Corridor & Wrap-up",
+        "activities": [
+          "Study tour of auto ancillary supplier cluster",
+          "Award of completion certificates",
+          "Departure transfer"
+        ],
+        "meals": [
+          "B",
+          "L"
+        ],
+        "stay": "Return journey"
+      }
+    ],
+    "highlights": [
+      "Massive industrial scale spinning and modern air-jet weaving",
+      "Advanced chemical effluent treatment and environmental compliance",
+      "Certified plant visits with industrial liaisons",
+      "Official training participation certificates"
+    ],
+    "inclusions": [
+      "Chartered bus transit",
+      "3-star lodging",
+      "Full board meals",
+      "Plant entry documentation and PPE",
+      "Technical coordinator",
+      "Student certificates"
+    ],
+    "exclusions": [
+      "Train/flight tickets to Ahmedabad",
+      "Personal items"
+    ],
+    "safetyAndCompliance": [
+      "Chemical plant respirator and protective eyewear gear",
+      "Factory security protocol clearances"
+    ],
+    "imageUrl": "/images/packages/iv-ahmedabad-3d.jpg"
+  },
+  {
+    "id": "iv-hyderabad-3d",
+    "category": "industrial_visit",
+    "destinationId": "hyderabad-in",
+    "title": "3-Day Pharmaceutical & Heavy Engineering Tour: Hyderabad",
+    "nights": 2,
+    "days": 3,
+    "minGroup": 10,
+    "maxGroup": 100,
+    "accommodation": "3star",
+    "transport": "bus",
+    "interests": [
+      "pharmaceutical",
+      "heavy_engineering",
+      "automation"
+    ],
+    "mustHave": [
+      "plant visit",
+      "technical coordinator",
+      "safety gear",
+      "certificate"
+    ],
+    "baseActivitiesPerPerson": 900,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Genome Valley Formulation & Quality Testing",
+        "activities": [
+          "Hotel check-in and briefing",
+          "Formulation development lab visit with automated blister packaging",
+          "HPLC chromatography and spectroscopy inspection demonstration"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "3-star hotel"
+      },
+      {
+        "day": 2,
+        "title": "Heavy Electrical Turbine Manufacturing",
+        "activities": [
+          "Guided visit through heavy engineering power turbine manufacturing shop",
+          "Inspection of rotor blading, vacuum balancing, and coil insulation",
+          "Technical lecture by production management"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "3-star hotel"
+      },
+      {
+        "day": 3,
+        "title": "Aerospace SEZ & Certificate Presentation",
+        "activities": [
+          "Aerospace components machining center overview",
+          "Certificate distribution ceremony",
+          "Departure transfer"
+        ],
+        "meals": [
+          "B",
+          "L"
+        ],
+        "stay": "Return journey"
+      }
+    ],
+    "highlights": [
+      "Leading pharmaceutical sterile formulation facilities",
+      "Heavy power generation turbine machining and assembly",
+      "Technical coordination by industry specialists",
+      "Formal engineering certificates"
+    ],
+    "inclusions": [
+      "Bus transportation throughout the 3 days",
+      "3-star hotel accommodation",
+      "3 meals daily",
+      "Factory entrance fees and gate passes",
+      "Safety gear & coordinator",
+      "Official certificate"
+    ],
+    "exclusions": [
+      "Personal room service and phone calls",
+      "Extra snacks outside planned meals"
+    ],
+    "safetyAndCompliance": [
+      "Clean-room gowns and factory safety helmets provided",
+      "First aid and paramedic backup"
+    ],
+    "imageUrl": "/images/packages/iv-hyderabad-3d.jpg"
+  },
+  {
+    "id": "st-ooty-2d",
+    "category": "school_trip",
+    "destinationId": "ooty-in",
+    "title": "2-Day Educational Nature & Botanical Tour: Ooty",
+    "nights": 1,
+    "days": 2,
+    "minGroup": 20,
+    "maxGroup": 120,
+    "accommodation": "3star",
+    "transport": "bus",
+    "interests": [
+      "nature",
+      "tea_science",
+      "botany",
+      "wildlife"
+    ],
+    "mustHave": [
+      "insurance",
+      "first-aid",
+      "meals",
+      "teacher chaperones",
+      "consent docs"
+    ],
+    "baseActivitiesPerPerson": 700,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Tea Plantation Science & Botanical Wonder",
+        "activities": [
+          "Scenic hill coach transit to Ooty with teacher roll-call",
+          "Check-in at student-safe hotel",
+          "Interactive visit to Tea Factory learning CTC processing and oxidation",
+          "Guided nature walk through Government Botanical Gardens with flora worksheets",
+          "Campfire and educational quiz under teacher supervision"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "3-star secure student hotel"
+      },
+      {
+        "day": 2,
+        "title": "Doddabetta Peak, Lake Boating & Heritage Train",
+        "activities": [
+          "Morning panoramic viewing at Doddabetta Peak telescope house",
+          "Boat ride at Ooty Lake in life-jacket compliant zones",
+          "Heritage Nilgiri mountain railway ride",
+          "Safe departure transfer back to school campus"
+        ],
+        "meals": [
+          "B",
+          "L"
+        ],
+        "stay": "Return transit"
+      }
+    ],
+    "highlights": [
+      "Interactive tea-making and botany worksheets for students",
+      "Full compliance with student safety and chaperone ratios",
+      "Comprehensive travel medical insurance included",
+      "Heritage toy train educational experience"
+    ],
+    "inclusions": [
+      "Dedicated school bus with speed governor & GPS",
+      "Secure 3-star hotel with separate floor for boys/girls",
+      "Child-friendly nutritious meals (2 Breakfasts, 2 Lunches, 1 Dinner)",
+      "Student group travel insurance & 24/7 first-aid kit with trained nurse",
+      "Complimentary teacher chaperone accommodations (1:15 ratio, min 2)",
+      "Standard student parental consent documentation package",
+      "All park and tea museum entry tickets"
+    ],
+    "exclusions": [
+      "Personal souvenirs and camera charges",
+      "Individual snacks outside scheduled meals"
+    ],
+    "safetyAndCompliance": [
+      "Mandatory 1:15 chaperone-to-student supervisory ratio",
+      "GPS-tracked sanitized school buses with verified drivers",
+      "Certified first-aider accompanying the group throughout the itinerary",
+      "Standard school excursion emergency response protocol"
+    ],
+    "imageUrl": "/images/packages/st-ooty-2d.jpg"
+  },
+  {
+    "id": "st-jaipur-3d",
+    "category": "school_trip",
+    "destinationId": "jaipur-in",
+    "title": "3-Day Heritage & Science Heritage School Trip: Jaipur",
+    "nights": 2,
+    "days": 3,
+    "minGroup": 20,
+    "maxGroup": 120,
+    "accommodation": "3star",
+    "transport": "bus",
+    "interests": [
+      "history",
+      "astronomy",
+      "architecture",
+      "crafts"
+    ],
+    "mustHave": [
+      "insurance",
+      "first-aid",
+      "meals",
+      "teacher chaperones",
+      "consent docs"
+    ],
+    "baseActivitiesPerPerson": 700,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Amber Fort Heritage Walk & Architectural Geometry",
+        "activities": [
+          "Arrival and hotel check-in with chaperone briefing",
+          "Tour of Amber Palace with specialized child-friendly guide",
+          "Hands-on Rajput architecture geometry quiz",
+          "Traditional puppet show and Rajasthani cultural evening"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "3-star approved student hotel"
+      },
+      {
+        "day": 2,
+        "title": "Jantar Mantar Ancient Astronomy & City Palace",
+        "activities": [
+          "In-depth educational visit to Jantar Mantar sundial observatory",
+          "Measuring local solar time with the Samrat Yantra",
+          "Exploration of City Palace heritage armory and textile gallery",
+          "Interactive block printing art workshop"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "3-star approved student hotel"
+      },
+      {
+        "day": 3,
+        "title": "Birla Planetarium & Safe Return",
+        "activities": [
+          "Show at Birla Planetarium exploring astrophysics and constellations",
+          "Final debriefing and educational certificate distribution",
+          "Return coach transit with student roll-call"
+        ],
+        "meals": [
+          "B",
+          "L"
+        ],
+        "stay": "Return transit"
+      }
+    ],
+    "highlights": [
+      "Astronomical time calculation lessons at UNESCO Jantar Mantar",
+      "Verified child-safe accommodations with CCTV security",
+      "1:15 chaperone allocation with free teacher packages",
+      "Comprehensive medical insurance and first-responder coverage"
+    ],
+    "inclusions": [
+      "Chartered AC bus with emergency exit and speed governor",
+      "3-star student hotel lodging",
+      "All meals designed for school students",
+      "Travel insurance for every student and chaperone",
+      "First aid kit and certified medical handler",
+      "Teacher chaperone arrangements and consent documentation",
+      "All monument entry fees and observatory tickets"
+    ],
+    "exclusions": [
+      "Personal student pocket money",
+      "Optional amusement park rides"
+    ],
+    "safetyAndCompliance": [
+      "Strict student headcounts before boarding and at monument exits",
+      "24/7 on-call pediatrician tie-up at destination",
+      "Formal excursion risk assessment documentation provided to school"
+    ],
+    "imageUrl": "/images/packages/st-jaipur-3d.jpg"
+  },
+  {
+    "id": "st-coimbatore-2d",
+    "category": "school_trip",
+    "destinationId": "coimbatore-in",
+    "title": "2-Day Science & Agriculture Discovery Tour: Coimbatore",
+    "nights": 1,
+    "days": 2,
+    "minGroup": 20,
+    "maxGroup": 120,
+    "accommodation": "hostel",
+    "transport": "bus",
+    "interests": [
+      "science",
+      "agriculture",
+      "nature",
+      "biodiversity"
+    ],
+    "mustHave": [
+      "insurance",
+      "first-aid",
+      "meals",
+      "teacher chaperones",
+      "consent docs"
+    ],
+    "baseActivitiesPerPerson": 700,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Agricultural University Botanical Park & Insect Museum",
+        "activities": [
+          "Arrival and orientation",
+          "Visit to TNAU Insect Museum and agricultural botanical glasshouse",
+          "Seed germination and organic farming demonstration for children",
+          "Evening interactive science quiz at hostel"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "Approved youth educational hostel"
+      },
+      {
+        "day": 2,
+        "title": "Gass Forest Museum & Regional Science Center",
+        "activities": [
+          "Tour of historic Gass Forest Museum wildlife specimens",
+          "3D astronomy show at Regional Science Center",
+          "Return journey with chaperone oversight"
+        ],
+        "meals": [
+          "B",
+          "L"
+        ],
+        "stay": "Return journey"
+      }
+    ],
+    "highlights": [
+      "Hands-on insectarium and botanical biology exploration",
+      "Cost-effective secure educational youth hostel stay",
+      "All insurance, first aid, and teacher chaperones fully arranged",
+      "Certified safe drivers and emergency support"
+    ],
+    "inclusions": [
+      "AC bus transportation",
+      "Youth hostel accommodation with secure dormitories",
+      "Hygiene-certified meals",
+      "Student group insurance",
+      "First aid and paramedic emergency coverage",
+      "Teacher chaperone arrangements and consent forms",
+      "All museum passes"
+    ],
+    "exclusions": [
+      "Personal purchases",
+      "Room service"
+    ],
+    "safetyAndCompliance": [
+      "Strict gender-separated hostel wings with security guards",
+      "First aid certified coordinator on board"
+    ],
+    "imageUrl": "/images/packages/st-coimbatore-2d.jpg"
+  },
+  {
+    "id": "st-chennai-3d",
+    "category": "school_trip",
+    "destinationId": "chennai-in",
+    "title": "3-Day Marine & Science Discovery School Trip: Chennai",
+    "nights": 2,
+    "days": 3,
+    "minGroup": 20,
+    "maxGroup": 120,
+    "accommodation": "3star",
+    "transport": "train",
+    "interests": [
+      "marine_life",
+      "space_science",
+      "zoology",
+      "history"
+    ],
+    "mustHave": [
+      "insurance",
+      "first-aid",
+      "meals",
+      "teacher chaperones",
+      "consent docs"
+    ],
+    "baseActivitiesPerPerson": 700,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Birla Planetarium & Science Center",
+        "activities": [
+          "Train arrival and transfer to hotel",
+          "Immersive space show at Planetarium",
+          "Science park interactive outdoor physics exhibits",
+          "Evening team reflection with teachers"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "3-star hotel"
+      },
+      {
+        "day": 2,
+        "title": "Vandalur Zoological Park & Crocodile Bank",
+        "activities": [
+          "Safari at Arignar Anna Zoological Park",
+          "Conservation talk at Madras Crocodile Bank Trust",
+          "Marine biodiversity coastal walk under teacher supervision"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "3-star hotel"
+      },
+      {
+        "day": 3,
+        "title": "DakshinaChitra Cultural Village & Safe Return",
+        "activities": [
+          "Folk crafts and traditional architecture study at DakshinaChitra",
+          "Pottery workshop for students",
+          "Return train transfer"
+        ],
+        "meals": [
+          "B",
+          "L"
+        ],
+        "stay": "Return journey"
+      }
+    ],
+    "highlights": [
+      "Marine and zoological wildlife conservation learning",
+      "Safe train travel with dedicated block reservations",
+      "Teacher chaperone ratio of 1:15 strictly maintained",
+      "Comprehensive medical and emergency support"
+    ],
+    "inclusions": [
+      "Train reservations and local bus transfers",
+      "3-star hotel stay",
+      "All meals",
+      "Comprehensive insurance",
+      "First-aid and consent paperwork",
+      "Free teacher chaperone package",
+      "All educational tickets"
+    ],
+    "exclusions": [
+      "Personal toys or souvenirs"
+    ],
+    "safetyAndCompliance": [
+      "Chaperone check at all transit interchanges",
+      "Continuous student tracking and health monitoring"
+    ],
+    "imageUrl": "/images/packages/st-chennai-3d.jpg"
+  },
+  {
+    "id": "ct-goa-3d",
+    "category": "college_trip",
+    "destinationId": "goa-in",
+    "title": "3-Day Coastal Adventure & Heritage College Trip: Goa",
+    "nights": 2,
+    "days": 3,
+    "minGroup": 15,
+    "maxGroup": 200,
+    "accommodation": "3star",
+    "transport": "bus",
+    "interests": [
+      "adventure",
+      "coastal",
+      "heritage",
+      "team_building"
+    ],
+    "mustHave": [
+      "insurance",
+      "meals",
+      "coordinator"
+    ],
+    "baseActivitiesPerPerson": 1200,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "North Goa Beaches & Sunset Fort Walk",
+        "activities": [
+          "Arrival and check-in at beachside hotel",
+          "Afternoon excursion to Aguada Fort and lighthouse",
+          "Beach volleyball and group icebreaking at Calangute",
+          "Welcome buffet dinner with DJ evening"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "3-star resort"
+      },
+      {
+        "day": 2,
+        "title": "Watersports & Mandovi River Cruise",
+        "activities": [
+          "Morning watersports package: banana ride, bumper boat, and parasailing with certified lifeguards",
+          "Lunch at traditional Goan spice plantation",
+          "Evening scenic cruise on the Mandovi River with cultural folk dance performances"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "3-star resort"
+      },
+      {
+        "day": 3,
+        "title": "Old Goa Heritage Churches & Return Transit",
+        "activities": [
+          "Tour of Basilica of Bom Jesus and Se Cathedral",
+          "Shopping at Panaji flea market",
+          "Departure transfer for onward return journey"
+        ],
+        "meals": [
+          "B",
+          "L"
+        ],
+        "stay": "Return transit"
+      }
+    ],
+    "highlights": [
+      "Curated college group experience with resort pool and DJ night",
+      "Regulated watersports with lifejackets and certified operators",
+      "Dedicated college tour coordinator managing all logistics",
+      "Group insurance covering all participants"
+    ],
+    "inclusions": [
+      "AC chartered coach for all transfers",
+      "3-star resort with swimming pool access (triple/quad sharing)",
+      "Daily breakfast, lunch, and dinner buffets",
+      "Group travel and accidental insurance coverage",
+      "Full-time experienced youth tour coordinator",
+      "Watersports package and Mandovi river cruise tickets"
+    ],
+    "exclusions": [
+      "Alcoholic beverages and nightclub covers",
+      "Personal laundry and discretionary expenses"
+    ],
+    "safetyAndCompliance": [
+      "Lifeguard supervision on all beach and water activities",
+      "24/7 on-ground trip coordinator and first-aid response"
+    ],
+    "imageUrl": "/images/packages/ct-goa-3d.jpg"
+  },
+  {
+    "id": "ct-manali-4d",
+    "category": "college_trip",
+    "destinationId": "manali-in",
+    "title": "4-Day Mountain Expedition & Trekking College Trip: Manali",
+    "nights": 3,
+    "days": 4,
+    "minGroup": 15,
+    "maxGroup": 200,
+    "accommodation": "3star",
+    "transport": "bus",
+    "interests": [
+      "trekking",
+      "adventure",
+      "snow",
+      "mountains"
+    ],
+    "mustHave": [
+      "insurance",
+      "meals",
+      "coordinator"
+    ],
+    "baseActivitiesPerPerson": 1200,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Manali Arrival, Old Manali & Hadimba Temple",
+        "activities": [
+          "Morning arrival and resort check-in",
+          "Acclimatization walk to ancient Hadimba Devi Temple and cedar forests",
+          "Cafe hopping and shopping in Old Manali",
+          "Evening bonfire with acoustic music"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "3-star mountain view resort"
+      },
+      {
+        "day": 2,
+        "title": "Solang Valley Snow Adventure & Paragliding",
+        "activities": [
+          "Excursion to Solang Valley",
+          "Adventure activities: zorbing, quad biking, and supervised paragliding",
+          "Hot Maggi and mountain tea break",
+          "Return to hotel for buffet dinner"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "3-star mountain view resort"
+      },
+      {
+        "day": 3,
+        "title": "Jogini Waterfall Trek & Vashisht Hot Springs",
+        "activities": [
+          "Guided morning trek through apple orchards to Jogini Waterfalls",
+          "Packed picnic lunch near the cascading falls",
+          "Visit to sulfur hot springs at Vashisht village",
+          "Evening group games and celebration night"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "3-star mountain view resort"
+      },
+      {
+        "day": 4,
+        "title": "River Rafting & Return Coach Departure",
+        "activities": [
+          "Beas River grade-III white water rafting session with safety briefing",
+          "Souvenir shopping at Mall Road",
+          "Overnight return bus departure"
+        ],
+        "meals": [
+          "B",
+          "L"
+        ],
+        "stay": "Return coach"
+      }
+    ],
+    "highlights": [
+      "High-energy mountain adventure tailored for college groups",
+      "White water river rafting and Solang Valley snow sports",
+      "Guided waterfall trek with experienced mountain guides",
+      "Complete logistics handled by professional tour coordinator"
+    ],
+    "inclusions": [
+      "AC semi-sleeper coach travel",
+      "3-star mountain resort accommodation",
+      "All meals including outdoor picnic lunches",
+      "Student group insurance coverage",
+      "Certified adventure guides and tour coordinator",
+      "Rafting and national park permits"
+    ],
+    "exclusions": [
+      "Individual paragliding or tandem flight fees",
+      "Heavy winter clothing rental (available on site)"
+    ],
+    "safetyAndCompliance": [
+      "Certified river guides with throw bags and lifejackets",
+      "High altitude first-aid kit with pulse oximeter and oxygen canisters"
+    ],
+    "imageUrl": "/images/packages/ct-manali-4d.jpg"
+  },
+  {
+    "id": "ct-pune-3d",
+    "category": "college_trip",
+    "destinationId": "pune-in",
+    "title": "3-Day Fort Trekking & Youth Culture College Trip: Pune",
+    "nights": 2,
+    "days": 3,
+    "minGroup": 15,
+    "maxGroup": 200,
+    "accommodation": "hostel",
+    "transport": "train",
+    "interests": [
+      "trekking",
+      "history",
+      "youth_culture",
+      "adventure"
+    ],
+    "mustHave": [
+      "insurance",
+      "meals",
+      "coordinator"
+    ],
+    "baseActivitiesPerPerson": 1200,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Sinhagad Fort Historic Trek & Pithla Bhakri",
+        "activities": [
+          "Arrival by train and transfer to modern youth hostel",
+          "Ascent trek to Sinhagad Fort with history narratives",
+          "Traditional rural lunch at the fort summit",
+          "Evening visit to Shaniwar Wada"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "Trendy backpacker youth hostel"
+      },
+      {
+        "day": 2,
+        "title": "Lonavala / Pawna Lake Camping & Water Games",
+        "activities": [
+          "Day trip to Pawna Lake for kayaking and rope challenge courses",
+          "Barbecue dinner and open-air acoustic music session under the stars"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "Hostel / secure lakeside campsite"
+      },
+      {
+        "day": 3,
+        "title": "Pune Tech & Cafe Culture, Return Transit",
+        "activities": [
+          "Exploration of Koregaon Park cafe hubs and cultural spaces",
+          "Return train departure transfer"
+        ],
+        "meals": [
+          "B",
+          "L"
+        ],
+        "stay": "Return journey"
+      }
+    ],
+    "highlights": [
+      "Challenging fort trek with Maratha history context",
+      "Lakeside camping and adventure ropes course",
+      "Affordable hostel lodging built for large student batches",
+      "Full insurance and coordinator support"
+    ],
+    "inclusions": [
+      "Train reservations and local bus charters",
+      "Hostel accommodation",
+      "All meals including camp BBQ",
+      "Student travel insurance",
+      "Youth coordinator",
+      "Adventure gear and safety instructors"
+    ],
+    "exclusions": [
+      "Personal purchases"
+    ],
+    "safetyAndCompliance": [
+      "Adventure ropes certified to international standards",
+      "Dedicated group coordinator"
+    ],
+    "imageUrl": "/images/packages/ct-pune-3d.jpg"
+  },
+  {
+    "id": "ct-bengaluru-3d",
+    "category": "college_trip",
+    "destinationId": "bengaluru-in",
+    "title": "3-Day Tech Innovation & Entertainment College Tour: Bengaluru",
+    "nights": 2,
+    "days": 3,
+    "minGroup": 15,
+    "maxGroup": 200,
+    "accommodation": "3star",
+    "transport": "bus",
+    "interests": [
+      "innovation",
+      "gaming",
+      "nightlife",
+      "tech"
+    ],
+    "mustHave": [
+      "insurance",
+      "meals",
+      "coordinator"
+    ],
+    "baseActivitiesPerPerson": 1200,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Visvesvaraya Science Museum & Church Street",
+        "activities": [
+          "Arrival and check-in",
+          "Interactive physics and engine pavilions at Visvesvaraya Museum",
+          "Evening exploration of Church Street bookshops and cafes",
+          "Group welcome dinner"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "3-star central hotel"
+      },
+      {
+        "day": 2,
+        "title": "Wonderla Theme Park Full Day Thrills",
+        "activities": [
+          "Full day adventure at Wonderla Amusement Park with fast-track entry",
+          "High-thrill rollercoasters and wave pool access",
+          "Evening buffet at Indiranagar"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "3-star central hotel"
+      },
+      {
+        "day": 3,
+        "title": "Bannerghatta Biological Safari & Departure",
+        "activities": [
+          "Grand safari at Bannerghatta National Park seeing lions and tigers",
+          "Return coach departure"
+        ],
+        "meals": [
+          "B",
+          "L"
+        ],
+        "stay": "Return journey"
+      }
+    ],
+    "highlights": [
+      "Exciting day pass at Wonderla Amusement Park",
+      "Wildlife safari and science museum interactive exhibits",
+      "Seamless management with dedicated student coordinator",
+      "Group insurance included"
+    ],
+    "inclusions": [
+      "AC coach for all days",
+      "3-star hotel stay",
+      "All meals",
+      "Wonderla park tickets and buffet",
+      "Insurance and coordinator"
+    ],
+    "exclusions": [
+      "Personal arcade games"
+    ],
+    "safetyAndCompliance": [
+      "Park safety compliance and ride monitoring",
+      "First aid and emergency coordinator"
+    ],
+    "imageUrl": "/images/packages/ct-bengaluru-3d.jpg"
+  },
+  {
+    "id": "vac-goa-4d",
+    "category": "vacation",
+    "destinationId": "goa-in",
+    "title": "4-Day Coastal Escape & Private Villa Vacation: Goa",
+    "nights": 3,
+    "days": 4,
+    "minGroup": 1,
+    "maxGroup": 12,
+    "accommodation": "4star",
+    "transport": "flight",
+    "interests": [
+      "relaxation",
+      "beach",
+      "culinary",
+      "sightseeing"
+    ],
+    "mustHave": [
+      "hotel",
+      "transfers",
+      "sightseeing"
+    ],
+    "baseActivitiesPerPerson": 2500,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Airport Welcome & Beachside Sunset",
+        "activities": [
+          "Private AC sedan transfer from Dabolim/Mopa airport",
+          "Check-in at luxury 4-star boutique resort with welcome drink",
+          "Sunset cocktail lounge overlooking the Arabian Sea",
+          "Chef's curated seafood dinner"
+        ],
+        "meals": [
+          "D"
+        ],
+        "stay": "4-star boutique resort"
+      },
+      {
+        "day": 2,
+        "title": "South Goa Heritage & Private Catamaran",
+        "activities": [
+          "Leisurely breakfast by the pool",
+          "Private guided tour of Menezes Braganza historic mansion in Chandor",
+          "Afternoon 3-hour private catamaran cruise with snorkeling and dolphin spotting",
+          "Evening at Palolem beach shacks"
+        ],
+        "meals": [
+          "B",
+          "L"
+        ],
+        "stay": "4-star boutique resort"
+      },
+      {
+        "day": 3,
+        "title": "Fontainhas Latin Quarter & Spice Gastronomy",
+        "activities": [
+          "Walking architectural tour of colorful Portuguese heritage quarter Fontainhas",
+          "Lunch at heritage Goan bistro with feni tasting",
+          "Spa relaxation session at resort",
+          "Candlelight beach dinner"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "4-star boutique resort"
+      },
+      {
+        "day": 4,
+        "title": "Leisure Morning & Airport Departure",
+        "activities": [
+          "Morning yoga by the beach or swim",
+          "Late breakfast and checkout",
+          "Private airport chauffeur transfer"
+        ],
+        "meals": [
+          "B"
+        ],
+        "stay": "Departure flight"
+      }
+    ],
+    "highlights": [
+      "Private catamaran yacht sailing with dolphin spotting",
+      "Heritage Portuguese quarter walking tour with local expert",
+      "Luxury 4-star boutique resort with swimming pool and spa",
+      "Seamless private chauffeur transfers throughout"
+    ],
+    "inclusions": [
+      "Private AC airport transfers and daily sightseeing vehicle",
+      "4-star boutique resort stay with daily breakfast",
+      "Catamaran yacht sailing trip",
+      "Heritage walking tour with licensed guide",
+      "All monument entry tickets and taxes"
+    ],
+    "exclusions": [
+      "Domestic airfare tickets (customizable on request)",
+      "Discretionary spa treatments and gratuities"
+    ],
+    "safetyAndCompliance": [
+      "Licensed and commercially insured luxury vehicles",
+      "24/7 dedicated concierge assistance line"
+    ],
+    "imageUrl": "/images/packages/vac-goa-4d.jpg"
+  },
+  {
+    "id": "vac-manali-5d",
+    "category": "vacation",
+    "destinationId": "manali-in",
+    "title": "5-Day Himalayan Luxury & Alpine Retreat: Manali",
+    "nights": 4,
+    "days": 5,
+    "minGroup": 1,
+    "maxGroup": 12,
+    "accommodation": "4star",
+    "transport": "bus",
+    "interests": [
+      "mountains",
+      "nature",
+      "luxury",
+      "sightseeing"
+    ],
+    "mustHave": [
+      "hotel",
+      "transfers",
+      "sightseeing"
+    ],
+    "baseActivitiesPerPerson": 2500,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Scenic Mountain Arrival & Pine Chalet Check-in",
+        "activities": [
+          "Private pickup and transfer to mountain view luxury resort",
+          "Welcome cedar tea and orientation",
+          "Leisure evening walking along Mall Road"
+        ],
+        "meals": [
+          "D"
+        ],
+        "stay": "4-star luxury alpine resort"
+      },
+      {
+        "day": 2,
+        "title": "Solang Valley & Atal Tunnel to Sissu",
+        "activities": [
+          "Drive through engineering marvel Atal Tunnel into Lahaul Valley",
+          "Explore Sissu waterfall and glacial valley",
+          "Hot lunch overlooking snow peaks",
+          "Return for resort spa evening"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "4-star luxury alpine resort"
+      },
+      {
+        "day": 3,
+        "title": "Naggar Castle & Heritage Art Gallery",
+        "activities": [
+          "Tour of medieval wood-and-stone Naggar Castle",
+          "Visit Nicholas Roerich Himalayan art estate",
+          "Traditional Himachali Dham lunch experience",
+          "Evening fireplace relaxation"
+        ],
+        "meals": [
+          "B",
+          "L"
+        ],
+        "stay": "4-star luxury alpine resort"
+      },
+      {
+        "day": 4,
+        "title": "Nature Trails & Apple Orchard Picnic",
+        "activities": [
+          "Private guided walk through serene Deodar forest trails",
+          "Curated picnic lunch in an organic apple orchard",
+          "Leisure shopping for Pashmina shawls and local honey"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "4-star luxury alpine resort"
+      },
+      {
+        "day": 5,
+        "title": "Breakfast with Mountain Vistas & Departure",
+        "activities": [
+          "Morning breakfast overlooking the Himalayas",
+          "Private transfer for return journey"
+        ],
+        "meals": [
+          "B"
+        ],
+        "stay": "Return journey"
+      }
+    ],
+    "highlights": [
+      "Drive through iconic Atal Tunnel to picturesque Sissu",
+      "4-star mountain chalets with panoramic valley views",
+      "Authentic Himachali gastronomic experience",
+      "Private dedicated luxury vehicle and guide"
+    ],
+    "inclusions": [
+      "Private vehicle throughout the trip",
+      "4-star alpine resort accommodation",
+      "Daily breakfast and curated dinners",
+      "Atal Tunnel green cess and sightseeing permits",
+      "Local guide services and orchard access"
+    ],
+    "exclusions": [
+      "Flights to Kullu or long-distance bus tickets",
+      "Personal snow gear rentals"
+    ],
+    "safetyAndCompliance": [
+      "Experienced mountain drivers with 4WD capabilities",
+      "First aid and on-call medical doctor at resort"
+    ],
+    "imageUrl": "/images/packages/vac-manali-5d.jpg"
+  },
+  {
+    "id": "vac-jaipur-3d",
+    "category": "vacation",
+    "destinationId": "jaipur-in",
+    "title": "3-Day Royal Heritage & Haveli Retreat: Jaipur",
+    "nights": 2,
+    "days": 3,
+    "minGroup": 1,
+    "maxGroup": 12,
+    "accommodation": "4star",
+    "transport": "train",
+    "interests": [
+      "heritage",
+      "royalty",
+      "shopping",
+      "architecture"
+    ],
+    "mustHave": [
+      "hotel",
+      "transfers",
+      "sightseeing"
+    ],
+    "baseActivitiesPerPerson": 2500,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Heritage Haveli Check-in & City Palace Royalty",
+        "activities": [
+          "Chauffeur arrival transfer to converted royal haveli",
+          "Private tour of City Palace Chandra Mahal private chambers",
+          "Hawa Mahal facade photography stop and traditional lassi at MI Road"
+        ],
+        "meals": [
+          "D"
+        ],
+        "stay": "4-star heritage palace hotel"
+      },
+      {
+        "day": 2,
+        "title": "Amber Fort Royalty & Sunset at Nahargarh",
+        "activities": [
+          "Morning exploration of majestic Amber Fort with audio guide",
+          "Visit Stepwell Panna Meena Kund",
+          "Afternoon artisan bazaar shopping for gems and block prints",
+          "Panoramic sunset high-tea at Nahargarh Fort overlooking the Pink City"
+        ],
+        "meals": [
+          "B",
+          "L"
+        ],
+        "stay": "4-star heritage palace hotel"
+      },
+      {
+        "day": 3,
+        "title": "Jantar Mantar & Departure",
+        "activities": [
+          "Private tour of Jantar Mantar astronomical marvel",
+          "Curated Rajasthani Thali lunch",
+          "Chauffeur transfer to railway station/airport"
+        ],
+        "meals": [
+          "B",
+          "L"
+        ],
+        "stay": "Departure"
+      }
+    ],
+    "highlights": [
+      "Stay in authentic royal heritage palace property",
+      "Exclusive access to City Palace royal quarters",
+      "Sunset high-tea on the ramparts of Nahargarh Fort",
+      "Private luxury AC sedan transfers throughout"
+    ],
+    "inclusions": [
+      "Dedicated AC chauffeur-driven sedan",
+      "4-star heritage hotel lodging",
+      "Buffet breakfasts and private dinners",
+      "All palace and fort VIP entry tickets",
+      "Expert heritage storytelling guide"
+    ],
+    "exclusions": [
+      "Personal gemstone shopping",
+      "Gratuities"
+    ],
+    "safetyAndCompliance": [
+      "Verified licensed heritage guides",
+      "Safe sanitation protocols"
+    ],
+    "imageUrl": "/images/packages/vac-jaipur-3d.jpg"
+  },
+  {
+    "id": "vac-dubai-4d",
+    "category": "vacation",
+    "destinationId": "dubai-ae",
+    "title": "4-Day Futuristic Skyline & Desert Safari: Dubai",
+    "nights": 3,
+    "days": 4,
+    "minGroup": 1,
+    "maxGroup": 12,
+    "accommodation": "4star",
+    "transport": "flight",
+    "interests": [
+      "luxury",
+      "desert",
+      "architecture",
+      "shopping"
+    ],
+    "mustHave": [
+      "hotel",
+      "transfers",
+      "sightseeing"
+    ],
+    "baseActivitiesPerPerson": 2500,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Dubai International Arrival & Marina Dhow Cruise",
+        "activities": [
+          "VIP airport meet and greet with transfer to downtown hotel",
+          "Evening Dubai Marina luxury glass boat dhow cruise with international 5-star buffet"
+        ],
+        "meals": [
+          "D"
+        ],
+        "stay": "4-star luxury downtown hotel"
+      },
+      {
+        "day": 2,
+        "title": "Burj Khalifa Top & Museum of the Future",
+        "activities": [
+          "Fast-track entry to Burj Khalifa 124th & 125th floor observation decks",
+          "Visit the architectural wonder Museum of the Future",
+          "Evening Dubai Mall fountain show"
+        ],
+        "meals": [
+          "B",
+          "L"
+        ],
+        "stay": "4-star luxury downtown hotel"
+      },
+      {
+        "day": 3,
+        "title": "Premium Desert Safari & Bedouin Camp",
+        "activities": [
+          "Morning at leisure for Gold Souk and Spice Souk shopping",
+          "Afternoon 4x4 dune bashing in red sand dunes",
+          "Camel riding, sandboarding, and falconry photography",
+          "Gourmet barbecue dinner with fire show and belly dancing in royal desert camp"
+        ],
+        "meals": [
+          "B",
+          "D"
+        ],
+        "stay": "4-star luxury downtown hotel"
+      },
+      {
+        "day": 4,
+        "title": "Palm Jumeirah & Departure Transfer",
+        "activities": [
+          "Monorail ride across Palm Jumeirah with views of Atlantis",
+          "Private airport departure transfer"
+        ],
+        "meals": [
+          "B"
+        ],
+        "stay": "Departure flight"
+      }
+    ],
+    "highlights": [
+      "Burj Khalifa 124th floor observation deck access",
+      "Premium 4x4 red dune desert safari with luxury barbecue",
+      "Museum of the Future entry tickets included",
+      "4-star hotel located near Dubai Mall"
+    ],
+    "inclusions": [
+      "All airport and sightseeing transfers in private vehicle",
+      "4-star hotel stay with breakfast",
+      "Burj Khalifa & Museum of the Future tickets",
+      "Marina dhow dinner cruise",
+      "Full desert safari package with BBQ"
+    ],
+    "exclusions": [
+      "International flights and UAE tourist visas",
+      "Tourism Dirham fee paid directly to hotel"
+    ],
+    "safetyAndCompliance": [
+      "Roll-cage equipped 4x4 safari vehicles with certified desert drivers",
+      "International travel health concierge"
+    ],
+    "imageUrl": "/images/packages/vac-dubai-4d.jpg"
+  },
+  {
+    "id": "vac-kualalumpur-4d",
+    "category": "vacation",
+    "destinationId": "kuala-lumpur-my",
+    "title": "4-Day Tropical Metropolis & Genting Highlands: Kuala Lumpur",
+    "nights": 3,
+    "days": 4,
+    "minGroup": 1,
+    "maxGroup": 12,
+    "accommodation": "4star",
+    "transport": "flight",
+    "interests": [
+      "metropolis",
+      "nature",
+      "shopping",
+      "culture"
+    ],
+    "mustHave": [
+      "hotel",
+      "transfers",
+      "sightseeing"
+    ],
+    "baseActivitiesPerPerson": 2500,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "KLIA Arrival & Petronas Twin Towers Skybridge",
+        "activities": [
+          "Private transfer from KLIA airport to city hotel",
+          "Visit to Petronas Twin Towers Skybridge and Observation Deck",
+          "Dinner at Bukit Bintang night market"
+        ],
+        "meals": [
+          "D"
+        ],
+        "stay": "4-star city center hotel"
+      },
+      {
+        "day": 2,
+        "title": "Batu Caves & Genting Highlands Cable Car",
+        "activities": [
+          "Explore colorful 272-step Batu Caves Murugan temple",
+          "Scenic Awana SkyWay glass-floor cable car ride up to Genting",
+          "Visit SkyAvenue entertainment complex",
+          "Return to KL for dinner"
+        ],
+        "meals": [
+          "B",
+          "L"
+        ],
+        "stay": "4-star city center hotel"
+      },
+      {
+        "day": 3,
+        "title": "Putrajaya Cruise & Cultural City Tour",
+        "activities": [
+          "Boat cruise along Putrajaya Lake viewing Pink Mosque",
+          "KL bird park walk inside world's largest free-flight aviary",
+          "Evening culinary street walk at Jalan Alor"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "4-star city center hotel"
+      },
+      {
+        "day": 4,
+        "title": "Souvenir Shopping & Airport Departure",
+        "activities": [
+          "Central Market artisan souvenir shopping",
+          "Private airport transfer to KLIA"
+        ],
+        "meals": [
+          "B"
+        ],
+        "stay": "Departure flight"
+      }
+    ],
+    "highlights": [
+      "Petronas Twin Towers observation deck access",
+      "Awana SkyWay glass cable car to Genting Highlands",
+      "Putrajaya architectural scenic cruise",
+      "Centrally located 4-star hotel near shopping malls"
+    ],
+    "inclusions": [
+      "Private AC airport and intercity transfers",
+      "4-star hotel accommodation with breakfast",
+      "All monument and cable car tickets",
+      "English speaking licensed Malaysian tourist guide"
+    ],
+    "exclusions": [
+      "International flights and travel insurance",
+      "Personal shopping and mini-bar"
+    ],
+    "safetyAndCompliance": [
+      "Licensed SPAD tourist coaches",
+      "Verified travel insurance guidelines"
+    ],
+    "imageUrl": "/images/packages/vac-kualalumpur-4d.jpg"
+  },
+  {
+    "id": "vac-ooty-3d",
+    "category": "vacation",
+    "destinationId": "ooty-in",
+    "title": "3-Day Serene Tea Country & Heritage Stay: Ooty",
+    "nights": 2,
+    "days": 3,
+    "minGroup": 1,
+    "maxGroup": 12,
+    "accommodation": "3star",
+    "transport": "bus",
+    "interests": [
+      "nature",
+      "tea",
+      "hills",
+      "relaxation"
+    ],
+    "mustHave": [
+      "hotel",
+      "transfers",
+      "sightseeing"
+    ],
+    "baseActivitiesPerPerson": 2500,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Colonial Bungalow Arrival & Rose Garden",
+        "activities": [
+          "Chauffeur pickup and check-in at colonial heritage resort",
+          "Visit Government Rose Garden with over 20,000 rose varieties",
+          "Warm chocolate fondue tasting at local artisan chocolatier"
+        ],
+        "meals": [
+          "D"
+        ],
+        "stay": "3-star heritage resort"
+      },
+      {
+        "day": 2,
+        "title": "Emerald Lake & Tea Estate Tasting",
+        "activities": [
+          "Drive to peaceful offbeat Emerald Lake",
+          "Private tea tasting and tour at Glenmorgan estate",
+          "Evening boating at Pykara lake"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "3-star heritage resort"
+      },
+      {
+        "day": 3,
+        "title": "Nilgiri Mountain Toy Train & Departure",
+        "activities": [
+          "First-class coach journey on Nilgiri Mountain Toy Train to Coonoor",
+          "Sim's Park botanical stroll",
+          "Departure transfer"
+        ],
+        "meals": [
+          "B",
+          "L"
+        ],
+        "stay": "Departure"
+      }
+    ],
+    "highlights": [
+      "UNESCO Nilgiri Mountain Toy Train journey included",
+      "Exclusive tea tasting session at private estate",
+      "Stay in heritage colonial stone bungalow",
+      "Private chauffeur vehicle for all 3 days"
+    ],
+    "inclusions": [
+      "Private dedicated vehicle",
+      "Heritage resort accommodation",
+      "Daily breakfast and dinner",
+      "Toy train tickets and tea estate permits",
+      "Driver allowances and tolls"
+    ],
+    "exclusions": [
+      "Personal shopping"
+    ],
+    "safetyAndCompliance": [
+      "Experienced mountain drivers",
+      "Resort medical support"
+    ],
+    "imageUrl": "/images/packages/vac-ooty-3d.jpg"
+  },
+  {
+    "id": "vac-coimbatore-2d",
+    "category": "vacation",
+    "destinationId": "coimbatore-in",
+    "title": "2-Day Foothills, Wellness & Western Ghats Nature Vacation: Coimbatore",
+    "nights": 1,
+    "days": 2,
+    "minGroup": 1,
+    "maxGroup": 12,
+    "accommodation": "4star",
+    "transport": "flight",
+    "interests": [
+      "wellness",
+      "nature",
+      "heritage",
+      "western ghats",
+      "relaxation"
+    ],
+    "mustHave": [
+      "hotel",
+      "transfers",
+      "sightseeing"
+    ],
+    "baseActivitiesPerPerson": 2200,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Siruvani Foothills & Isha Dhyanalinga Wellness Experience",
+        "activities": [
+          "Private chauffeur greeting at Coimbatore airport or railway station",
+          "Scenic morning drive to Siruvani foothills and sweet mineral stream nature trail",
+          "Afternoon check-in at luxury Western Ghats foothills resort with traditional welcome",
+          "Evening immersion at Isha Yoga Center: Dhyanalinga contemplation & Suryakund",
+          "Witness the illuminated 112ft Adiyogi Shiva Statue sound and light projection show"
+        ],
+        "meals": [
+          "L",
+          "D"
+        ],
+        "stay": "4-star foothills luxury wellness resort"
+      },
+      {
+        "day": 2,
+        "title": "Marudhamalai Scenic Hill Temple & Kongu Heritage Trail",
+        "activities": [
+          "Sunrise excursion to ancient Marudhamalai Murugan Hill Temple amidst Western Ghats",
+          "Traditional South Indian Kongunadu breakfast experience",
+          "Visit to the iconic Gedee Car Museum showcasing vintage automobiles",
+          "Afternoon souvenir shopping for authentic handloom Kovai cottons & departure transfer"
+        ],
+        "meals": [
+          "B",
+          "L"
+        ],
+        "stay": "Departure"
+      }
+    ],
+    "highlights": [
+      "Dhyanalinga meditation and 112ft Adiyogi laser projection show",
+      "Scenic excursion along pristine Siruvani River foothills",
+      "Hilltop vistas from historic Marudhamalai Western Ghats sanctuary",
+      "Private chauffeured travel & 4-star boutique wellness resort stay"
+    ],
+    "inclusions": [
+      "1-Night stay in verified 4-star boutique resort with daily breakfast",
+      "Dedicated air-conditioned private vehicle for airport transfers & all sightseeing",
+      "Guided access & meditation permits at Isha Yoga Center",
+      "Gourmet South Indian culinary dining & curated sightseeing passes",
+      "All interstate permits, tolls, driver allowances and parking fees"
+    ],
+    "exclusions": [
+      "Personal spa treatments and wellness rituals",
+      "Discretionary driver tips and camera permits"
+    ],
+    "safetyAndCompliance": [
+      "Chauffeur background verified with sanitised commercial tourist vehicle",
+      "24/7 dedicated local concierge support across Coimbatore"
+    ],
+    "imageUrl": "/images/packages/vac-coimbatore-2d.jpg"
+  },
+  {
+    "id": "vac-coimbatore-3d",
+    "category": "vacation",
+    "destinationId": "coimbatore-in",
+    "title": "3-Day Western Ghats Retreat, Isha & Valparai Tea Trails: Coimbatore",
+    "nights": 2,
+    "days": 3,
+    "minGroup": 1,
+    "maxGroup": 12,
+    "accommodation": "4star",
+    "transport": "flight",
+    "interests": [
+      "wellness",
+      "tea",
+      "nature",
+      "wildlife",
+      "heritage"
+    ],
+    "mustHave": [
+      "hotel",
+      "transfers",
+      "sightseeing"
+    ],
+    "baseActivitiesPerPerson": 2800,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Siruvani Nature Reserve & Isha Adiyogi Light Show",
+        "activities": [
+          "Airport meet-and-greet & private transfer to Western Ghats foothills retreat",
+          "Nature walk through Siruvani mineral spring reserve and birdwatching trail",
+          "Afternoon orientation at Isha Yoga Center & Dhyanalinga silent meditation",
+          "Night illumination and 3D projection show at the monumental Adiyogi statue"
+        ],
+        "meals": [
+          "L",
+          "D"
+        ],
+        "stay": "4-star foothills luxury resort"
+      },
+      {
+        "day": 2,
+        "title": "Valparai Ghat Hairpin Drive & Emerald Tea Garden Walk",
+        "activities": [
+          "Scenic morning drive through 40 hairpin bends of the Anamalai mountain range",
+          "Guided walkthrough of high-altitude Valparai tea estates & tea-tasting session",
+          "Spotting endemic Nilgiri Tahr and Lion-tailed Macaques with local nature guide",
+          "Sunset view from Solaiyar dam viewpoint and return to Coimbatore"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "4-star foothills luxury resort"
+      },
+      {
+        "day": 3,
+        "title": "Marudhamalai Temple, Gedee Heritage Museum & Departure",
+        "activities": [
+          "Morning visit to panoramic Marudhamalai Hill Temple",
+          "Curated tour of Gedee Car Museum & regional scientific innovations",
+          "Kongu regional feast and authentic Kovai textile shopping",
+          "Chauffeured departure transfer to Coimbatore airport or station"
+        ],
+        "meals": [
+          "B",
+          "L"
+        ],
+        "stay": "Departure"
+      }
+    ],
+    "highlights": [
+      "Isha Yoga Center serenity & spectacular Adiyogi evening illumination",
+      "Scenic mountain ascent through 40 hairpin bends to Valparai tea country",
+      "Wildlife sightings in the Anamalai Western Ghats biosphere",
+      "Luxury 4-star foothills resort with private chauffeured transit"
+    ],
+    "inclusions": [
+      "2-Night stay in verified 4-star resort with daily buffet breakfast",
+      "Private AC vehicle with dedicated driver for all 3 days",
+      "Valparai forest entry permits and licensed eco-guide",
+      "Adiyogi sound and light projection access passes",
+      "All driver allowances, fuel, toll charges and parking fees"
+    ],
+    "exclusions": [
+      "Personal expenses and premium tea retail purchases",
+      "Discretionary tips for driver and safari guide"
+    ],
+    "safetyAndCompliance": [
+      "Mountain-certified experienced drivers with hill driving permits",
+      "Comprehensive guest safety protocols and 24/7 travel desk"
+    ],
+    "imageUrl": "/images/packages/vac-coimbatore-3d.jpg"
+  },
+  {
+    "id": "iv-coimbatore-2d",
+    "category": "industrial_visit",
+    "destinationId": "coimbatore-in",
+    "title": "2-Day Precision Tooling & CNC Machining Workshop: Coimbatore",
+    "nights": 1,
+    "days": 2,
+    "minGroup": 10,
+    "maxGroup": 100,
+    "accommodation": "3star",
+    "transport": "bus",
+    "imageUrl": "/images/packages/iv-coimbatore-3d.jpg",
+    "interests": [
+      "manufacturing",
+      "automation",
+      "cnc",
+      "mechanical"
+    ],
+    "mustHave": [
+      "plant visit",
+      "technical coordinator",
+      "safety gear",
+      "certificate"
+    ],
+    "baseActivitiesPerPerson": 750,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival, Safety Briefing & Precision Engineering Unit",
+        "activities": [
+          "Check-in at accommodation",
+          "Industrial safety orientation & PPE distribution",
+          "Guided walkthrough of Texvalley automation & precision machining hub",
+          "Interactive Q&A with plant quality leads"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "3-star hotel"
+      },
+      {
+        "day": 2,
+        "title": "Heavy Motor Manufacturing & Industry Certification",
+        "activities": [
+          "Morning session at high-efficiency pump manufacturing facility",
+          "Observation of CNC casting, automated lines, and dynamic balancing",
+          "Award of Industrial Training Certificates",
+          "Evening departure transit"
+        ],
+        "meals": [
+          "B",
+          "L"
+        ],
+        "stay": "Return journey"
+      }
+    ],
+    "highlights": [
+      "Focused 2-day intensive precision machining exposure",
+      "Direct observation of high-speed CNC and dynamic balancing",
+      "Official industry-recognized training certificates"
+    ],
+    "inclusions": [
+      "AC coach transportation for all 2 days",
+      "3-star twin/triple sharing accommodation",
+      "All meals (2 Breakfasts, 2 Lunches, 1 Dinner)",
+      "Plant entry clearances & safety gear (helmets, vests)",
+      "Technical coordinator and official certificates"
+    ],
+    "exclusions": [
+      "Personal expenses and laundry",
+      "Items not in itinerary"
+    ],
+    "safetyAndCompliance": [
+      "OSHA/Factories Act orientation",
+      "First-aid kit and emergency standby"
+    ]
+  },
+  {
+    "id": "st-coimbatore-3d",
+    "category": "school_trip",
+    "destinationId": "coimbatore-in",
+    "title": "3-Day Science, Agriculture & Eco-Nature Tour: Coimbatore",
+    "nights": 2,
+    "days": 3,
+    "minGroup": 15,
+    "maxGroup": 80,
+    "accommodation": "3star",
+    "transport": "bus",
+    "imageUrl": "/images/packages/st-coimbatore-2d.jpg",
+    "interests": [
+      "science",
+      "botany",
+      "agriculture",
+      "nature"
+    ],
+    "mustHave": [
+      "teacher supervision",
+      "first aid",
+      "eco park entry",
+      "student insurance"
+    ],
+    "baseActivitiesPerPerson": 850,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "TNAU Botanical Gardens & Insect Museum",
+        "activities": [
+          "Arrival and orientation",
+          "Guided tour of Tamil Nadu Agricultural University greenhouses",
+          "Study of rare botanical flora and insect museum specimens"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "Verified school-friendly hotel"
+      },
+      {
+        "day": 2,
+        "title": "Regional Science Centre & Planetarium Sky Show",
+        "activities": [
+          "Interactive physics and astronomy exhibits at Science Centre",
+          "Digital planetarium constellation show",
+          "Hands-on robotics and simple machines workshop"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "Verified school-friendly hotel"
+      },
+      {
+        "day": 3,
+        "title": "Siruvani Eco-Park & Bio-Reserve Trail",
+        "activities": [
+          "Morning nature discovery walk at Siruvani foothills",
+          "Bird watching and ecological biodiversity study",
+          "Student reflection circle and return journey"
+        ],
+        "meals": [
+          "B",
+          "L"
+        ],
+        "stay": "Return journey"
+      }
+    ],
+    "highlights": [
+      "Comprehensive 3-day STEM & agricultural science curriculum",
+      "Planetarium astronomy show and hands-on physics workshop",
+      "1:15 mandatory teacher-to-student supervision included"
+    ],
+    "inclusions": [
+      "Dedicated AC school bus for all 3 days",
+      "School-approved 3-star lodging (twin/triple sharing)",
+      "All wholesome meals (3 Breakfasts, 3 Lunches, 2 Dinners)",
+      "Comprehensive student travel insurance & first aid",
+      "All science centre, garden, and planetarium entry fees"
+    ],
+    "exclusions": [
+      "Personal souvenirs",
+      "Individual medical expenses beyond first aid"
+    ],
+    "safetyAndCompliance": [
+      "POCSO compliant staff",
+      "1:15 chaperone ratio strictly enforced"
+    ]
+  },
+  {
+    "id": "iv-pune-2d",
+    "category": "industrial_visit",
+    "destinationId": "pune-in",
+    "title": "2-Day Automotive Robotics Fast-Track Visit: Pune",
+    "nights": 1,
+    "days": 2,
+    "minGroup": 10,
+    "maxGroup": 100,
+    "accommodation": "3star",
+    "transport": "bus",
+    "imageUrl": "/images/packages/iv-pune-3d.jpg",
+    "interests": [
+      "automobile",
+      "robotics",
+      "automation"
+    ],
+    "mustHave": [
+      "plant visit",
+      "technical coordinator",
+      "safety gear",
+      "certificate"
+    ],
+    "baseActivitiesPerPerson": 800,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Robotic Chassis Welding & Automation Tour",
+        "activities": [
+          "Arrival transfer from Pune Terminal",
+          "OSHA safety orientation",
+          "Observation of robotic chassis welding lines and robotic paint shop",
+          "Q&A with lead automation engineers"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "3-star business hotel"
+      },
+      {
+        "day": 2,
+        "title": "EV Powertrain & Certification Wrap-up",
+        "activities": [
+          "Tour of EV powertrain and battery assembly facility",
+          "Observation of automated optical testing cells",
+          "Distribution of Industrial Training Certificates",
+          "Evening departure transit"
+        ],
+        "meals": [
+          "B",
+          "L"
+        ],
+        "stay": "Return journey"
+      }
+    ],
+    "highlights": [
+      "Intensive 2-day hands-on automotive robotics overview",
+      "Direct interaction with automotive manufacturing engineers",
+      "Industry-recognized participation certificates"
+    ],
+    "inclusions": [
+      "AC bus transport for both days",
+      "3-star accommodation (twin/triple sharing)",
+      "All meals (2 Breakfasts, 2 Lunches, 1 Dinner)",
+      "Plant entry clearances & visitor safety PPE",
+      "Technical coordinator and official certificates"
+    ],
+    "exclusions": [
+      "Personal laundry",
+      "Expenses outside itinerary"
+    ],
+    "safetyAndCompliance": [
+      "Mandatory visitor PPE",
+      "Emergency medical standby"
+    ]
+  },
+  {
+    "id": "st-ooty-3d",
+    "category": "school_trip",
+    "destinationId": "ooty-in",
+    "title": "3-Day Nature, Tea Heritage & Wildlife School Excursion: Ooty",
+    "nights": 2,
+    "days": 3,
+    "minGroup": 15,
+    "maxGroup": 80,
+    "accommodation": "3star",
+    "transport": "bus",
+    "imageUrl": "/images/packages/st-ooty-2d.jpg",
+    "interests": [
+      "nature",
+      "wildlife",
+      "botany",
+      "tea heritage"
+    ],
+    "mustHave": [
+      "teacher supervision",
+      "first aid",
+      "tea factory entry",
+      "student insurance"
+    ],
+    "baseActivitiesPerPerson": 900,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Government Botanical Gardens & Doddabetta Peak",
+        "activities": [
+          "Arrival at Ooty hill station",
+          "Educational walk through 175-year-old Botanical Gardens",
+          "Observation of Nilgiri mountain flora and Doddabetta telescope house"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "Secure school resort"
+      },
+      {
+        "day": 2,
+        "title": "Heritage Steam Train & Tea Processing Museum",
+        "activities": [
+          "Ride on the UNESCO World Heritage Nilgiri Mountain Railway",
+          "Guided visit to tea manufacturing factory and orthodox tea museum",
+          "Interactive session on leaf fermentation and drying processes"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "Secure school resort"
+      },
+      {
+        "day": 3,
+        "title": "Mudumalai Wildlife Safari Orientation & Return",
+        "activities": [
+          "Morning wildlife sanctuary orientation and elephant camp observation",
+          "Student nature journal reflections",
+          "Departure for return transit"
+        ],
+        "meals": [
+          "B",
+          "L"
+        ],
+        "stay": "Return journey"
+      }
+    ],
+    "highlights": [
+      "UNESCO heritage steam mountain railway journey",
+      "Curated tea production chemistry and processing museum",
+      "Safe teacher-supervised wildlife sanctuary visit"
+    ],
+    "inclusions": [
+      "Dedicated AC coach for all hill transits",
+      "3-star safe group hotel lodging",
+      "All wholesome meals (3 Breakfasts, 3 Lunches, 2 Dinners)",
+      "Toy train tickets & factory entry permits",
+      "Student group travel insurance & verified first aid"
+    ],
+    "exclusions": [
+      "Personal shopping",
+      "Additional snacks"
+    ],
+    "safetyAndCompliance": [
+      "Strict 1:15 chaperone supervision",
+      "Mountain route certified driver"
+    ]
+  },
+  {
+    "id": "ct-goa-4d",
+    "category": "college_trip",
+    "destinationId": "goa-in",
+    "title": "4-Day Water Sports, Trek & Coastal Adventure: Goa",
+    "nights": 3,
+    "days": 4,
+    "minGroup": 10,
+    "maxGroup": 60,
+    "accommodation": "hostel",
+    "transport": "bus",
+    "imageUrl": "/images/packages/ct-goa-3d.jpg",
+    "interests": [
+      "adventure",
+      "watersports",
+      "trekking",
+      "beach"
+    ],
+    "mustHave": [
+      "hostel dorms",
+      "certified instructor",
+      "safety gear"
+    ],
+    "baseActivitiesPerPerson": 1050,
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival & North Goa Beach Orientation",
+        "activities": [
+          "Transfer to hostel in Anjuna/Vagator",
+          "Group beach orientation and sunset walk at Chapora fort",
+          "Welcome beach shack group dinner"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "Vibrant backpacker youth hostel"
+      },
+      {
+        "day": 2,
+        "title": "Grand Island Boat Excursion & Snorkeling",
+        "activities": [
+          "Full-day boat cruise to Grand Island",
+          "Guided snorkeling and marine life observation with certified divers",
+          "Barbecue lunch on secluded beach"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "Vibrant backpacker youth hostel"
+      },
+      {
+        "day": 3,
+        "title": "Dudhsagar Waterfalls Trek & Spice Plantation",
+        "activities": [
+          "Jeep safari and guided jungle trek to base of Dudhsagar falls",
+          "Swim in natural freshwater cascade pool",
+          "Traditional Goan buffet lunch at Sahakari spice plantation",
+          "Evening group campfire"
+        ],
+        "meals": [
+          "B",
+          "L",
+          "D"
+        ],
+        "stay": "Vibrant backpacker youth hostel"
+      },
+      {
+        "day": 4,
+        "title": "Fontainhas Latin Heritage Walk & Departure",
+        "activities": [
+          "Heritage photography walk through colorful Latin Quarter in Panaji",
+          "Souvenir shopping and return transit"
+        ],
+        "meals": [
+          "B",
+          "L"
+        ],
+        "stay": "Return journey"
+      }
+    ],
+    "highlights": [
+      "Full-day Grand Island marine excursion & snorkeling",
+      "Dudhsagar waterfalls jungle trek & cascade swim",
+      "Youth-friendly backpacker hostel with group games"
+    ],
+    "inclusions": [
+      "AC private coach transport for all 4 days",
+      "Youth hostel dorm accommodation (AC, ensuite baths)",
+      "All meals (4 Breakfasts, 4 Lunches, 3 Dinners)",
+      "Island boat cruise, snorkeling gear & waterfall jeep permits",
+      "Certified adventure guides and group travel insurance"
+    ],
+    "exclusions": [
+      "Personal water activities outside itinerary",
+      "Club admissions"
+    ],
+    "safetyAndCompliance": [
+      "Certified life-jacket provision",
+      "Registered boat operators"
+    ]
+  }
+]

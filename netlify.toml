@@ -1,0 +1,27 @@
+# Netlify Configuration for AscensioVentures AI Trip Package Engine
+
+[build]
+  publish = "public"
+  functions = "netlify/functions"
+
+# Redirect all /api/* requests to the Express serverless function
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/api/:splat"
+  status = 200
+
+# Direct function routing
+[[redirects]]
+  from = "/.netlify/functions/api/*"
+  to = "/.netlify/functions/api/:splat"
+  status = 200
+
+# Frontend Single Page App fallback
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+[functions]
+  node_bundler = "esbuild"
+  included_files = ["data/**"]
